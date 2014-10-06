@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "satern693@gmail.com",
+    "longName": "Testy Call",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/04B_19__.TTF",
+                "name": "FONT_FAP_50",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Testy Call",
+    "uuid": "67c30764-d927-474c-affc-8147140d5870",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
